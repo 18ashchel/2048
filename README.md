@@ -1,2 +1,2 @@
 # 2048
-Simple 2048 game using pygame
+Simple rainbow 2048 game using pygame
